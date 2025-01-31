@@ -84,5 +84,3 @@ The code is organized in a straightforward manner:
 - **CORS** is enabled to allow cross-origin requests.
 - The logic is simple, focusing on responding to a single GET request with JSON data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
